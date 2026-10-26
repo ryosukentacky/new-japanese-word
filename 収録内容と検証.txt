@@ -1,0 +1,14 @@
+収録10語：メルクマール, 目も眩むような, たむろ, 剣幕, たじろぐ, 虚仮, 路銀, 澱, 堆積, 忙殺
+原本：メルクマール解説 (2026-10-27) (3).html、最初の3語はより詳しい メルクマール解説 (2026-10-27).html を優先
+各語の文字数と画像：
+{'word': 'メルクマール', 'images': [], 'text_length': 3693}
+{'word': '目も眩むような', 'images': [], 'text_length': 3478}
+{'word': 'たむろ', 'images': [], 'text_length': 3639}
+{'word': '剣幕', 'images': ['04_剣幕.png'], 'text_length': 1891}
+{'word': 'たじろぐ', 'images': ['05_たじろぐ.png'], 'text_length': 1912}
+{'word': '虚仮', 'images': ['06_虚仮.png'], 'text_length': 2058}
+{'word': '路銀', 'images': ['07_路銀.png'], 'text_length': 2045}
+{'word': '澱', 'images': ['08_澱.png'], 'text_length': 2221}
+{'word': '堆積', 'images': ['09_堆積.png'], 'text_length': 2323}
+{'word': '忙殺', 'images': ['10_忙殺.png'], 'text_length': 2609}
+注意：書き出し側で欠落していた画像・選択肢や省略されていた文章の完全復元は保証できません。
